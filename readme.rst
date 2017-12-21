@@ -9,6 +9,6 @@ virtualHost
 *******************
 
 <VirtualHost *:80>
-  DocumentRoot D:\www\TestLexik
+  DocumentRoot D:\www\TestLexik \n
   ServerName www.TestLexik.my
 </VirtualHost>
